@@ -1,6 +1,6 @@
 ![code-ezgif com-resize](https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)
 <p align="center">
-    <img width="200" src="[http://material-bread.org/logo-shadow.svg](https://github.com/Priya028sri/Priya028sri/assets/108416857/50a62e7d-91d5-4fc6-920f-d320de7142db)" alt="Material Bread logo">
+    <img width="200" src="https://giphy.com/explore/computer-programming" alt="Material Bread logo">
 </p>
 
 
