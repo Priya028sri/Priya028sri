@@ -1,4 +1,4 @@
-<p align="center">![code](https://github.com/Priya028sri/Priya028sri/assets/108416857/fe9318fb-6aad-4638-a172-e4a638e2190f)</p>
+https://github.com/demartini/demartini/raw/master/code.gif
 
 
 <h1 align="center">Hi 👋, I'm Priya Srivastava</h1>
