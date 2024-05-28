@@ -1,7 +1,7 @@
 ![code-ezgif com-resize](https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)
-<p align="center">
-    <img width="200" src="[code-ezgif com-resize(https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)" alt="Material Bread logo">
-</p>
+<div align="center">
+  <img src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize">
+</div>
 
 
 <h1 align="center">Hi 👋, I'm Priya Srivastava</h1>
