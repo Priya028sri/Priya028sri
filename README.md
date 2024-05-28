@@ -1,4 +1,5 @@
-![Uploading code.gif…]()
+![code](https://github.com/Priya028sri/Priya028sri/assets/108416857/fe9318fb-6aad-4638-a172-e4a638e2190f)
+
 
 <h1 align="center">Hi 👋, I'm Priya Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
