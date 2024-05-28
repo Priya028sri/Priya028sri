@@ -1,4 +1,4 @@
-<p align="center">![code-ezgif com-resize](https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)</p>
+![code-ezgif com-resize](https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)
 
 <h1 align="center">Hi 👋, I'm Priya Srivastava</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
