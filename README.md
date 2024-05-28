@@ -1,5 +1,3 @@
-![lofi](https://github.com/Priya028sri/Priya028sri/assets/108416857/561d8b58-b4ce-4fa1-868d-c2157d0c50d9)
-
 <div align="center">
   <img src="https://github.com/Priya028sri/Priya028sri/assets/108416857/561d8b58-b4ce-4fa1-868d-c2157d0c50d9" alt="code-ezgif com-resize">
 </div>
