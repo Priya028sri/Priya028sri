@@ -1,4 +1,4 @@
-![code-ezgif com-resize](https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946)
+
 <div align="center">
   <img src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize">
 </div>
