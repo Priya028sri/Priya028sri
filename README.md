@@ -24,6 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+  <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" />
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
@@ -70,7 +71,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
-  <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" />
+
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya028sri&" alt="priya028sri" /></p>
