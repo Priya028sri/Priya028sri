@@ -20,7 +20,6 @@
 <a href="https://linkedin.com/in/priya-srivastava-81b27b222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priya-srivastava-81b27b222" height="30" width="40" /></a>
 <a href="https://instagram.com/pri_0_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pri_0_sri" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/priya028sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priya028sri" height="30" width="40" /></a>
-  <img align="center" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize"/>
   
 </p>
 
@@ -73,6 +72,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   </a>
 
+  <img align="center" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize"/>
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priya028sri&" alt="priya028sri" /></p>
