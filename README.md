@@ -22,9 +22,9 @@
 <a href="https://instagram.com/pri_0_sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pri_0_sri" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/priya028sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="priya028sri" height="30" width="40" /></a>
 </p>
- <p> <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" /></p>
+  <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" />
+  
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
