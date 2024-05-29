@@ -24,7 +24,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-  <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" />
+ <p> <img align="right" src="https://github.com/Priya028sri/Priya028sri/assets/108416857/28cc3034-4b86-4c0f-9aaf-033eaacef946" alt="code-ezgif com-resize" width="200" /></p>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
